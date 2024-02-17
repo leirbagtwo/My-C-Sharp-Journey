@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Giraffe1": {
+      "commandName": "Project",
+      "sqlDebugging": true,
+      "nativeDebugging": true
+    }
+  }
+}
