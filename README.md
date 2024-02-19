@@ -2,7 +2,11 @@
 
 Welcome to my C# journey repository! 🚀
 
-<img src="https://github.com/leirbagtwo/My-C-Sharp-Journey/assets/86273025/c3e6f4fe-cbbc-4b92-a06b-ab264c3ee42c" width="400">
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/leirbagtwo/My-C-Sharp-Journey/assets/86273025/c3e6f4fe-cbbc-4b92-a06b-ab264c3ee42c" width="250">
+    <img src="https://github.com/leirbagtwo/My-C-Sharp-Journey/assets/86273025/2b62d004-dbc9-4618-a253-9fbe2db6f877" width="250">
+    <img src="https://github.com/leirbagtwo/My-C-Sharp-Journey/assets/86273025/c6b0147f-f829-4218-8ee1-0a2c05c2725a" width="250">
+</div>
 
 
 In this repository, you'll find the culmination of my exploration and learning in the world of C#. As a programming language known for its versatility and robustness, C# has empowered me to build a wide range of applications, from simple console utilities to complex web applications and beyond.
