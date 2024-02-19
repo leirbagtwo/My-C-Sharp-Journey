@@ -2,10 +2,17 @@
 
 Welcome to my C# journey repository! 🚀
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/leirbagtwo/My-C-Sharp-Journey/assets/86273025/c3e6f4fe-cbbc-4b92-a06b-ab264c3ee42c" width="250">
-    <img src="https://github.com/leirbagtwo/My-C-Sharp-Journey/assets/86273025/2b62d004-dbc9-4618-a253-9fbe2db6f877" width="250">
-    <img src="https://github.com/leirbagtwo/My-C-Sharp-Journey/assets/86273025/c6b0147f-f829-4218-8ee1-0a2c05c2725a" width="250">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px;">
+        <img src="https://github.com/leirbagtwo/My-C-Sharp-Journey/assets/86273025/db5dd8e3-c75c-4b75-b2a0-593411bd8583" width="250" style="margin-right: 10px;">
+        <img src="https://github.com/leirbagtwo/My-C-Sharp-Journey/assets/86273025/48c2a572-fefa-463f-852b-4ce3e393b60a" width="250" style="margin-right: 10px;">
+        <img src="https://github.com/leirbagtwo/My-C-Sharp-Journey/assets/86273025/ff9f25c5-ffe6-4d05-af17-33bf166fcdf4" width="250">
+    </div>
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+        <img src="https://github.com/leirbagtwo/My-C-Sharp-Journey/assets/86273025/1c921e7e-ecea-4f64-88bc-507f1b18fb73" width="250" style="margin-right: 10px;">
+        <img src="https://github.com/leirbagtwo/My-C-Sharp-Journey/assets/86273025/298b3e84-2051-4eef-a263-f212d32a10d5" width="250" style="margin-right: 10px;">
+        <img src="https://github.com/leirbagtwo/My-C-Sharp-Journey/assets/86273025/25307154-2868-40b9-8b1f-c146d2016b0f" width="250">
+    </div>
 </div>
 
 
